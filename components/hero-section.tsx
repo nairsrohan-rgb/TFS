@@ -43,11 +43,7 @@ export function HeroSection() {
               </a>
               <a
                 href="#contact"
-                className="inline-flex items-center justify-center px-8 py-4 rounded-full text-base font-semibold border-2 transition-all hover:bg-deep-navy hover:text-white"
-                style={{ 
-                  color: "#031B4E",
-                  borderColor: "#031B4E"
-                }}
+                className="btn-primary inline-flex items-center justify-center px-8 py-4 rounded-full text-base font-semibold text-white"
               >
                 Contact Us
               </a>

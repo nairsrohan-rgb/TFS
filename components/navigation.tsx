@@ -45,12 +45,10 @@ export function Navigation() {
               className="w-auto h-10 md:h-12"
               priority
             />
-            <span 
+            <span
               className="hidden sm:block font-semibold text-lg"
               style={{ color: "#031B4E" }}
-            >
-              TFS
-            </span>
+            ></span>
           </a>
 
           {/* Desktop Navigation */}

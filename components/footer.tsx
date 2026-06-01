@@ -101,22 +101,22 @@ export function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="mailto:info@trustboxxfs.com"
+                  href="mailto:happytohelp@trustboxx.com"
                   className="flex items-center gap-3 text-sm transition-colors hover:text-electric-blue"
                   style={{ color: "#9CA3AF" }}
                 >
                   <Mail className="w-4 h-4 flex-shrink-0" style={{ color: "#0A66FF" }} />
-                  info@trustboxxfs.com
+                  happytohelp@trustboxx.com
                 </a>
               </li>
               <li>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+919867966323"
                   className="flex items-center gap-3 text-sm transition-colors hover:text-electric-blue"
                   style={{ color: "#9CA3AF" }}
                 >
                   <Phone className="w-4 h-4 flex-shrink-0" style={{ color: "#0A66FF" }} />
-                  +1 (234) 567-890
+                  +91 98679 66323
                 </a>
               </li>
               <li>
